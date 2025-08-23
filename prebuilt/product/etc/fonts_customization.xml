@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fonts-modification version="1">
 
+    <!-- Inter -->
+    <family customizationType="new-named-family" name="inter">
+        <font supportedAxes="wght,ital">Inter-Regular.ttf
+          <axis tag="wdth" stylevalue="100" />
+        </font>
+    </family>
+
+    <!-- Roboto -->
+    <family customizationType="new-named-family" name="roboto">
+        <font weight="400" style="normal">Roboto-Regular.ttf</font>
+    </family>
+
+    <!-- Roboto Flex -->
+    <family customizationType="new-named-family" name="roboto-flex">
+        <font supportedAxes="wght">RobotoFlex-Regular.ttf
+          <axis tag="wdth" stylevalue="100" />
+        </font>
+    </family>
+
     <family name="AtkinsonHyperlegible" customizationType="new-named-family">
         <font weight="400" style="normal" postScriptName="AtkinsonHyperlegible-Regular">
             AtkinsonHyperlegible-Regular.ttf

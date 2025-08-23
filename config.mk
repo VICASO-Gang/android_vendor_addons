@@ -74,7 +74,10 @@ PRODUCT_PACKAGES += \
     FontSurferOverlay \
     FontUbuntuOverlay \
     FontAtkinsonOverlay \
-    FontJetBrainsMonoOverlay
+    FontJetBrainsMonoOverlay \
+    FontRobotoFlexOverlay \
+    FontRobotoOverlay \
+    FontInterOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
